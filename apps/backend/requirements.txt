@@ -1,0 +1,12 @@
+fastapi>=0.75.0
+uvicorn>=0.17.0
+python-multipart>=0.0.5
+pdfplumber>=0.6.0
+python-docx>=0.8.11
+pytesseract>=0.3.8
+pillow>=9.0.1
+transformers>=4.19.0
+torch>=1.11.0
+spacy>=3.3.0
+googletrans>=4.0.0-rc1
+python-dotenv>=0.20.0
